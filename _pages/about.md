@@ -7,7 +7,7 @@ subtitle: Senior Data & AI Engineer | ML Pipelines | Data Platforms | Databricks
 profile:
   align: right
   image: file_00000000fc8c7208b4c3be18bdeb7482.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     # <p>+91-9158590121</p>
     # <p>Pune, India</p>
