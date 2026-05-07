@@ -25,14 +25,24 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Senior Data & AI Engineer with 6+ years of production experience building ML pipelines and data platforms on Databricks. I work across the full stack—from technical scoping and architecture to monitored, deployed systems using MLflow, ZenML, PySpark, Delta Lake, and Unity Catalog.
+I'm a Senior Data & AI Engineer with 6+ years of experience transforming how organizations leverage data. I specialize in building production-grade data platforms and ML systems that actually solve real business problems—not just moving data around, but making it useful, reliable, and actionable.
 
-Currently at **Cloudaeon** as a Senior Data & AI Engineer, serving as the technical point of contact for a retail company's data platform. I own 30+ ETL pipelines, orchestrate 15+ child DAGs through Airflow, and manage third-party integrations while maintaining CI/CD practices through GitHub Actions.
+What gets me excited? Playing with data at scale, predicting new scenarios with ML, and orchestrating agentic systems that keep production pipelines running smoothly and prevent costly downtime. I love working on the intersection of cutting-edge AI/ML and practical engineering that scales.
 
-Previously at **Persistent Systems**, I led three client data platform projects across e-commerce, banking, and life sciences. I've built and maintained 40+ pipelines across Airflow and Databricks, integrated GenAI workflows into production systems using LangChain, and set up MLflow for experiment tracking and model reproducibility.
+## What I do
 
-Earlier at **Cognizant**, I worked on enterprise ETL platforms in healthcare and life sciences, optimizing pipeline performance by 62% and implementing data quality checks that prevented inconsistencies from reaching business users.
+I design and build scalable data systems across **AWS, GCP, and Azure**, migrating legacy platforms into modern, cloud-native architectures. At **Cloudaeon**, I own 30+ ETL pipelines and orchestrate complex workflows using Databricks and Airflow to deliver real-time insights to business teams. 
 
-I'm comfortable working directly with business stakeholders and client teams—gathering requirements, making architecture decisions, explaining trade-offs without the jargon, and seeing delivery through to the end.
+Previously at **Persistent Systems**, I led multi-cloud modernization projects across e-commerce, banking, and life sciences—transforming Hadoop-based systems into Databricks pipelines and integrating GenAI workflows (LangChain, LangGraph) that actually work in production.
 
-**Connect with me:** [LinkedIn](https://linkedin.com/in/vinodwaghmare) | [Medium](https://medium.com/@vinodwaghmare)
+At **Cognizant**, I optimized enterprise ETL pipelines by 62%, built data quality frameworks, and supported healthcare systems where data accuracy directly impacts business operations.
+
+## Tech stack I work with
+
+**Databricks** • **Spark / PySpark** • **Apache Airflow** • **Delta Lake** • **MLflow** • **ZenML** • **LangChain** • **LangGraph** • **CrewAI** • **Python** • **SQL** • **CI/CD (GitHub Actions)**
+
+## Let's connect
+
+If you're modernizing your data platform, building scalable pipelines, or need someone who can translate between business requirements and technical complexity, let's talk.
+
+[LinkedIn](https://www.linkedin.com/in/vinod-w-141499169/) | [Medium](https://medium.com/@vinodwaghmare)
