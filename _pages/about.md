@@ -25,25 +25,30 @@ latest_posts:
   limit: 3
 ---
 
-Most AI projects don't fail because the models are bad. They fail because no one thought hard enough about what happens after deployment. That's the part I work on.
-
-I build systems that observe context, make decisions, and take action in production environments. The focus isn't just resilience or scalability, though you get both. It's about building something teams can hand off and trust without it falling apart the moment conditions change.
-
-The hard part is usually not the model. It's the mess around it. Fragmented pipelines, unclear ownership, workflows that worked in a notebook but break under real load. That's where most of the leverage is, and it's where I spend my time.
-
-My approach is pretty simple: prototype fast, stay close to the real environment, and treat observability as a feature not an afterthought. Fancy architecture is a liability unless it solves a real problem.
-
-I'm genuinely excited about agentic systems. Not because of the hype, but because I think they represent something qualitatively new. Software that doesn't just execute instructions but reasons about what to do next. That's a real shift, and building it well requires thinking carefully about boundaries, transparency, and failure modes most people skip over.
-
-I've worked across banking, retail, healthcare, and e-commerce. The domains are different. The underlying problems are usually the same: legacy systems never meant to scale, data that doesn't quite fit together, and teams that want to move faster than their infrastructure allows.
-
-The goal is never the technology. It's what the technology makes possible.
-
-## Let's connect
-
-If you're building something in this space, or trying to figure out why your AI isn't working the way you hoped, I'd genuinely love to hear about it.
-
 <style>
+.about-accent {
+  color: var(--global-theme-color);
+  font-weight: 700;
+}
+.about-punch {
+  color: var(--global-theme-color);
+  font-weight: 600;
+}
+.about-closer {
+  background: linear-gradient(135deg, var(--global-theme-color) 0%, #ff6b35 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  font-weight: 700;
+  font-style: italic;
+}
+.connect-section h2 {
+  background: linear-gradient(135deg, var(--global-theme-color) 0%, #ff6b35 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: inline-block;
+}
 .social-icons a {
   display: inline-block;
   transition: transform 0.2s ease, opacity 0.2s ease;
@@ -60,8 +65,8 @@ If you're building something in this space, or trying to figure out why your AI 
   bottom: -28px;
   left: 50%;
   transform: translateX(-50%);
-  background: #333;
-  color: #fff;
+  background: var(--global-footer-bg-color);
+  color: var(--global-footer-text-color);
   font-size: 11px;
   padding: 3px 8px;
   border-radius: 4px;
@@ -75,7 +80,29 @@ If you're building something in this space, or trying to figure out why your AI 
 }
 </style>
 
-<p class="social-icons" style="display: flex; align-items: center; gap: 20px;">
+Most AI projects don't fail because the models are bad. They fail because no one thought hard enough about what happens after deployment. <span class="about-accent">That's the part I work on.</span>
+
+I build systems that observe context, make decisions, and take action in production environments. The focus isn't just resilience or scalability, though you get both. It's about building something teams can hand off and trust without it falling apart the moment conditions change.
+
+<span class="about-punch">The hard part is usually not the model. It's the mess around it.</span> Fragmented pipelines, unclear ownership, workflows that worked in a notebook but break under real load. That's where most of the leverage is, and it's where I spend my time.
+
+My approach is pretty simple: prototype fast, stay close to the real environment, and treat observability as a feature not an afterthought. Fancy architecture is a liability unless it solves a real problem.
+
+I'm genuinely excited about agentic systems. Not because of the hype, but because I think they represent something qualitatively new. Software that doesn't just execute instructions but reasons about what to do next. That's a real shift, and building it well requires thinking carefully about boundaries, transparency, and failure modes most people skip over.
+
+I've worked across banking, retail, healthcare, and e-commerce. The domains are different. The underlying problems are usually the same: legacy systems never meant to scale, data that doesn't quite fit together, and teams that want to move faster than their infrastructure allows.
+
+<span class="about-closer">The goal is never the technology. It's what the technology makes possible.</span>
+
+<div class="connect-section" markdown="1">
+
+## Let's connect :)
+
+</div>
+
+If you're building something in this space, or trying to figure out why your AI isn't working the way you hoped, I'd genuinely love to hear about it.
+
+<p class="social-icons" style="display: flex; align-items: center; gap: 20px; margin-top: 12px;">
 <a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank" data-tooltip="Visit LinkedIn">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" />
 </a>
