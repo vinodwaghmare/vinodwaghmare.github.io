@@ -44,4 +44,5 @@ The goal is never the technology. It's what the technology makes possible.
 If you're building something in this space, or trying to figure out why your AI isn't working the way you hoped, I'd genuinely love to hear about it.
 
 [LinkedIn](https://www.linkedin.com/in/vinod-w-141499169/)  
-[Medium](https://medium.com/@vinodwaghmare)
+[Medium](https://medium.com/@vinodwaghmare)  
+[Dev.to](https://dev.to/vinod_wa)
