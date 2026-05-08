@@ -43,6 +43,14 @@ The goal is never the technology. It's what the technology makes possible.
 
 If you're building something in this space, or trying to figure out why your AI isn't working the way you hoped, I'd genuinely love to hear about it.
 
-[LinkedIn](https://www.linkedin.com/in/vinod-w-141499169/)  
-[Medium](https://medium.com/@vinodwaghmare)  
-[Dev.to](https://dev.to/vinod_wa)
+<p style="display: flex; align-items: center; gap: 20px;">
+<a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" />
+</a>
+<a href="https://medium.com/@vinodwaghmare" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="45" />
+</a>
+<a href="https://dev.to/vinod_wa" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="45" />
+</a>
+</p>
