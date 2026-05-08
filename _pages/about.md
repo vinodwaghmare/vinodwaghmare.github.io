@@ -2,47 +2,46 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Data & AI Engineer | ML Pipelines | Data Platforms | Databricks
+subtitle: Senior Data & AI Engineer | Agentic Systems | Intelligent Data Platforms
 
 profile:
   align: right
   image: file_00000000fc8c7208b4c3be18bdeb7482.png
-  image_circular: true # crops the image to make it circular
+  image_circular: true
   more_info: >
     <p><a href="mailto:vinodwaghmare890@gmail.com">vinodwaghmare890@gmail.com</a></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-I'm a Senior Data & AI Engineer with 6+ years of experience transforming how organizations leverage data. I specialize in building production-grade data platforms and ML systems that actually solve real business problems—not just moving data around, but making it useful, reliable, and actionable.
+Building AI and data systems that actually work in production.
 
-What gets me excited? Playing with data at scale, predicting new scenarios with ML, and orchestrating agentic systems that keep production pipelines running smoothly and prevent costly downtime. I love working on the intersection of cutting-edge AI/ML and practical engineering that scales.
+I engineer data and AI systems that actively observe context, make decisions, and take action to meet business objectives. As a Senior Data & AI Engineer, I focus on building resilient, fault-tolerant workflows that integrate seamlessly into real business environments. My work goes beyond moving data or deploying models > it’s about creating systems that are reliable, adaptive, and capable of continuously improving over time.
 
-## What I do
+Most of my work sits in the space between experimental AI and production-grade systems. I enjoy taking vague ideas, fragmented workflows, and operational bottlenecks, then transforming them into intelligent systems that teams can actually trust and scale with confidence.
 
-I design and build scalable data systems across **AWS, GCP, and Azure**, migrating legacy platforms into modern, cloud-native architectures. At **Cloudaeon**, I own 30+ ETL pipelines and orchestrate complex workflows using Databricks and Airflow to deliver real-time insights to business teams. 
+My engineering style is hands-on, iterative, and deeply practical. I prototype quickly, refine systems based on real-world feedback, and design with observability, governance, and reliability in mind from day one. Whether it’s orchestrating large-scale data workflows or building agent-driven systems with clear guardrails and fallback mechanisms, the focus always stays the same: building technology that consistently delivers outcomes.
 
-Previously at **Persistent Systems**, I led multi-cloud modernization projects across e-commerce, banking, and life sciences—transforming Hadoop-based systems into Databricks pipelines and integrating GenAI workflows (LangChain, LangGraph) that actually work in production.
+I’m especially interested in the future of agentic systems > workflows where intelligent agents can reason, adapt, and operate within well-defined boundaries while remaining transparent, auditable, and production-ready. I believe the next generation of software won’t just automate tasks, but continuously optimize and evolve alongside the business itself.
 
-At **Cognizant**, I optimized enterprise ETL pipelines by 62%, built data quality frameworks, and supported healthcare systems where data accuracy directly impacts business operations.
+Across banking, retail, healthcare, and e-commerce, I’ve helped teams modernize legacy architectures, operationalize AI workflows, and move toward more adaptive and AI-native platforms.
 
-## Tech stack I work with
+Big on practical engineering, continuous learning, open-source, and building systems that create measurable impact instead of staying stuck in prototypes.
 
-**Databricks** • **Spark / PySpark** • **Apache Airflow** • **Delta Lake** • **MLflow** • **ZenML** • **LangChain** • **LangGraph** • **CrewAI** • **Python** • **SQL** • **CI/CD (GitHub Actions)**
+## Let’s connect
 
-## Let's connect
+If you're exploring production AI, agentic workflows, or modern data platforms that go beyond dashboards and static pipelines :) happy to connect.
 
-If you're modernizing your data platform, building scalable pipelines, or need someone who can translate between business requirements and technical complexity, let's talk.
-
-[LinkedIn](https://www.linkedin.com/in/vinod-w-141499169/) | [Medium](https://medium.com/@vinodwaghmare)
+[LinkedIn](https://www.linkedin.com/in/vinod-w-141499169/)  
+[Medium](https://medium.com/@vinodwaghmare)
