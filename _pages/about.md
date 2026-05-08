@@ -43,14 +43,46 @@ The goal is never the technology. It's what the technology makes possible.
 
 If you're building something in this space, or trying to figure out why your AI isn't working the way you hoped, I'd genuinely love to hear about it.
 
-<p style="display: flex; align-items: center; gap: 20px;">
-<a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank">
+<style>
+.social-icons a {
+  display: inline-block;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+  position: relative;
+}
+.social-icons a:hover {
+  transform: scale(1.25);
+  opacity: 0.85;
+  cursor: pointer;
+}
+.social-icons a::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: -28px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  font-size: 11px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+.social-icons a:hover::after {
+  opacity: 1;
+}
+</style>
+
+<p class="social-icons" style="display: flex; align-items: center; gap: 20px;">
+<a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank" data-tooltip="Visit LinkedIn">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" />
 </a>
-<a href="https://medium.com/@vinodwaghmare" target="_blank">
+<a href="https://medium.com/@vinodwaghmare" target="_blank" data-tooltip="Visit Medium">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="45" />
 </a>
-<a href="https://dev.to/vinod_wa" target="_blank">
+<a href="https://dev.to/vinod_wa" target="_blank" data-tooltip="Visit Dev.to">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="45" />
 </a>
 </p>
