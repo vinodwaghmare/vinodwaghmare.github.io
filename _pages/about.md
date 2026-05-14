@@ -9,7 +9,7 @@ profile:
   image: file_00000000fc8c7208b4c3be18bdeb7482.png
   image_circular: true
   more_info: >
-    <p><a href="mailto:vinodwaghmare890@gmail.com">vinodwaghmare890@gmail.com</a></p>
+    <p><a href="mailto:vinodwaghmare890@gmail.com" title="vinodwaghmare890@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" style="vertical-align:middle;" /></a></p>
 
 selected_papers: false
 social: true
@@ -45,35 +45,6 @@ latest_posts:
   background-clip: text;
   display: inline-block;
 }
-.social-icons a {
-  display: inline-block;
-  transition: transform 0.2s ease, opacity 0.2s ease;
-  position: relative;
-}
-.social-icons a:hover {
-  transform: scale(1.25);
-  opacity: 0.85;
-  cursor: pointer;
-}
-.social-icons a::after {
-  content: attr(data-tooltip);
-  position: absolute;
-  bottom: -28px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--global-footer-bg-color);
-  color: var(--global-footer-text-color);
-  font-size: 11px;
-  padding: 3px 8px;
-  border-radius: 4px;
-  white-space: nowrap;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.2s ease;
-}
-.social-icons a:hover::after {
-  opacity: 1;
-}
 </style>
 
 Most AI projects don't fail because the models are bad. They fail because no one thought hard enough about what happens after deployment. <span class="about-accent">That's the part I work on.</span>
@@ -88,6 +59,8 @@ I'm genuinely excited about agentic systems. Not because of the hype, but becaus
 
 I've worked across banking, retail, healthcare, and e-commerce. The domains are different. The underlying problems are usually the same: legacy systems never meant to scale, data that doesn't quite fit together, and teams that want to move faster than their infrastructure allows.
 
+I also write regularly on Dev.to and Medium — breaking down AI systems and the engineering decisions behind them for both technical and non-technical readers. If you want to understand what's actually happening inside modern AI, not just the marketing version, that's what I write about.
+
 <span class="about-closer">The goal is never the technology. It's what the technology makes possible.</span>
 
 <div class="connect-section" markdown="1">
@@ -96,16 +69,37 @@ I've worked across banking, retail, healthcare, and e-commerce. The domains are 
 
 </div>
 
-If you're building something in this space, or trying to figure out why your AI isn't working the way you hoped, I'd genuinely love to hear about it.
+If you're building something in this space, or stuck on why your AI isn't working the way you hoped — just DM me. I reply.
 
-<p class="social-icons" style="display: flex; align-items: center; gap: 20px; margin-top: 12px;">
-<a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank" data-tooltip="Visit LinkedIn">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" />
-</a>
-<a href="https://medium.com/@vinodwaghmare" target="_blank" data-tooltip="Visit Medium">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="45" />
-</a>
-<a href="https://dev.to/vinod_wa" target="_blank" data-tooltip="Visit Dev.to">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="45" />
-</a>
-</p>
+<style>
+.linkedin-cta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 16px;
+}
+.linkedin-cta a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--global-text-color);
+  font-weight: 600;
+  font-size: 1rem;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.linkedin-cta a:hover {
+  opacity: 0.75;
+  transform: translateX(3px);
+}
+.linkedin-cta img {
+  flex-shrink: 0;
+}
+</style>
+
+<div class="linkedin-cta">
+  <a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
+    Connect with me on LinkedIn
+  </a>
+</div>
