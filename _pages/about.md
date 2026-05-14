@@ -11,7 +11,7 @@ profile:
   more_info:
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
@@ -68,4 +68,51 @@ I also write regularly on Dev.to and Medium — breaking down AI systems and the
 
 </div>
 
-If you're building something in this space, or stuck on why your AI isn't working the way you hoped — just DM me on <a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank" style="display:inline-flex; align-items:center; gap:5px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" style="vertical-align:middle;" /></a> for a quick chat, or mail me <a href="mailto:vinodwaghmare890@gmail.com" title="vinodwaghmare890@gmail.com" style="display:inline-flex; align-items:center; vertical-align:middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" style="vertical-align:middle;" /></a>
+If you're building something in this space, or stuck on why your AI isn't working the way you hoped — reach out.
+
+<style>
+.connect-icons {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+.connect-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+.connect-icons a:hover {
+  transform: translateY(-2px);
+  opacity: 0.85;
+}
+.cv-badge {
+  font-weight: 800;
+  font-size: 1.1rem;
+  color: var(--global-text-color) !important;
+  letter-spacing: 0.03em;
+  border: 2px solid var(--global-text-color);
+  border-radius: 6px;
+  padding: 4px 10px;
+  line-height: 1;
+}
+.cv-badge:hover {
+  color: var(--global-theme-color) !important;
+  border-color: var(--global-theme-color) !important;
+}
+</style>
+
+<div class="connect-icons">
+  <a href="/cv/" class="cv-badge" title="Curriculum Vitae">CV</a>
+  <a href="mailto:vinodwaghmare890@gmail.com" title="Email me">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="36" />
+  </a>
+  <a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36" />
+  </a>
+  <a href="https://github.com/vinodwaghmare" target="_blank" title="GitHub">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="36" />
+  </a>
+</div>
