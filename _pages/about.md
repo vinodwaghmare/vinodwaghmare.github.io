@@ -11,18 +11,14 @@ profile:
   more_info: >
     <p><a href="mailto:vinodwaghmare890@gmail.com">vinodwaghmare890@gmail.com</a></p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true
-  limit: 3
+  enabled: false
 ---
 
 <style>
