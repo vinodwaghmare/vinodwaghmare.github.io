@@ -2,9 +2,14 @@
 layout: page
 title: LiveCareAI
 description: Real-time AI patient monitoring via smartwatch vitals on Kafka streaming
+img: assets/img/livecare-ai.png
 importance: 1
 category: work
 ---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/img/livecare-ai.png" alt="LiveCareAI Logo" style="max-width: 280px; width: 100%;" />
+</div>
 
 This system monitors patients wearing smartwatches that continuously stream vital signs — heart rate, SpO2, blood pressure — to Confluent Cloud Kafka. AI models analyze the data in real-time to detect health anomalies and assess patient risk levels, enabling proactive healthcare interventions before conditions escalate.
 
