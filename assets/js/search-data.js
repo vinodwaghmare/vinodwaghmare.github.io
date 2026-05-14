@@ -196,9 +196,9 @@ ninja.data = [{
           description: "Real-time AI patient monitoring via smartwatch vitals on Kafka streaming",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-memgenx",
+          title: 'MemGenX',
+          description: "Unified memory layer for LLMs, agents, and AI apps — one context across all your tools",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
