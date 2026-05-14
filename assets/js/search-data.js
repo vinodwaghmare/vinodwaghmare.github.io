@@ -72,7 +72,117 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "books-the-godfather",
+            },{id: "post-ai-agents-roadmap-zero-to-production",
+        
+          title: 'AI Agents Roadmap: Zero to Production <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "This guide walks you through every layer of building them: from understanding why LLMs can reason at all, to wiring multi-agent teams that collaborate on complex workflows, to monitoring them in production so they don&#39;t hallucinate their way into trouble.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://dev.to/vinod_wa/ai-agents-roadmap-zero-to-production-2ohe", "_blank");
+          
+        },
+      },{id: "post-from-ai-chat-tool-to-autonomous-solvers-a-developer-39-s-guide-to-ai-agents",
+        
+          title: 'From AI Chat Tool to Autonomous Solvers: A Developer&#39;s Guide to AI Agents... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "The world of AI is moving beyond simple text generation. We are entering the era of AI Agents — systems that don&#39;t just answer questions but execute complex workflows autonomously. This guide provides a sequential path to understanding, building, and deploying your own agents.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://dev.to/vinod_wa/from-ai-chat-tool-to-autonomous-solvers-a-developers-guide-to-ai-agents-38dk", "_blank");
+          
+        },
+      },{id: "post-n8n-vs-openai-39-s-agentkit-the-real-battle-for-the-future-of-automation",
+        
+          title: 'n8n vs OpenAI&#39;s AgentKit: The Real Battle for the Future of Automation <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "How solo devs, small teams, and builders can win by combining human workflows with AI autonomy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/n8n-vs-openais-agentkit-the-real-battle-for-the-future-of-automation-fe65b469b765", "_blank");
+          
+        },
+      },{id: "post-why-vector-embeddings-are-the-hidden-power-behind-modern-ai",
+        
+          title: 'Why Vector Embeddings Are the Hidden Power Behind Modern AI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Most people treat AI as a black box. Vector embeddings are one of the clearest windows into how it actually works — and once you understand them, a lot of AI suddenly makes sense. This piece breaks down what they are, why they matter, and how they power everything from semantic search to RAG pipelines.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/why-vector-embeddings-are-the-hidden-power-behind-modern-ai-92a695fd4ea5", "_blank");
+          
+        },
+      },{id: "post-why-vector-embeddings-are-the-hidden-power-behind-modern-ai",
+        
+          title: 'Why Vector Embeddings Are the Hidden Power Behind Modern AI <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/why-vector-embeddings-are-the-hidden-power-behind-modern-ai-92a695fd4ea5?source=rss-92279f550a0f------2", "_blank");
+          
+        },
+      },{id: "post-the-next-billion-dollar-opportunity-fixing-ai-hallucinations",
+        
+          title: 'The Next Billion Dollar Opportunity: Fixing AI Hallucinations <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/the-next-billion-dollar-opportunity-fixing-ai-hallucinations-99363891571f?source=rss-92279f550a0f------2", "_blank");
+          
+        },
+      },{id: "post-n8n-vs-openai-s-agentkit-the-real-battle-for-the-future-of-automation",
+        
+          title: 'n8n vs OpenAI’s AgentKit → The Real Battle for the Future of Automation... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/n8n-vs-openais-agentkit-the-real-battle-for-the-future-of-automation-fe65b469b765?source=rss-92279f550a0f------2", "_blank");
+          
+        },
+      },{id: "post-1m-business-idea-blueprint-in-2025-a-practical-roadmap-for-modern-builders",
+        
+          title: '$1M Business Idea Blueprint in 2025: A Practical Roadmap for Modern Builders <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/1m-business-idea-blueprint-in-2025-a-practical-roadmap-for-modern-builders-ecc9bf735199?source=rss-92279f550a0f------2", "_blank");
+          
+        },
+      },{id: "post-will-ai-take-your-job-the-truth-nobody-wants-to-hear",
+        
+          title: 'Will AI Take Your Job? The Truth Nobody Wants to Hear <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/will-ai-take-your-job-the-truth-nobody-wants-to-hear-abc659f3cbed?source=rss-92279f550a0f------2", "_blank");
+          
+        },
+      },{id: "post-why-most-engineers-will-never-build-the-product-they-dream-about",
+        
+          title: 'Why Most Engineers Will Never Build the Product They Dream About. <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://medium.com/@VinodShips/why-most-engineers-will-never-build-the-product-they-dream-about-99d3fde9abd5?source=rss-92279f550a0f------2", "_blank");
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
