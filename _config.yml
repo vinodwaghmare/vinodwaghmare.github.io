@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">About me</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧢 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ðŸ§¢ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://vinodwaghmare.github.io # the base hostname & protocol for your site
 baseurl:   # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -132,6 +132,10 @@ external_sources:
   - name: Dev.to
     rss_url: https://dev.to/feed/vinod_wa
     tags: [devto]
+
+  - name: Medium
+    rss_url: https://medium.com/@VinodShips/feed
+    tags: [medium]
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -264,7 +268,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["devto", "linkedin"] # these tags will be displayed on the front page of your blog
+display_tags: ["devto", "medium", "linkedin"] # these tags will be displayed on the front page of your blog
 display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
@@ -663,3 +667,4 @@ jsonresume:
   - languages
   - interests
   - references
+

@@ -8,8 +8,7 @@ profile:
   align: right
   image: file_00000000fc8c7208b4c3be18bdeb7482.png
   image_circular: true
-  more_info: >
-    <p><a href="mailto:vinodwaghmare890@gmail.com" title="vinodwaghmare890@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="24" style="vertical-align:middle;" /></a></p>
+  more_info:
 
 selected_papers: false
 social: true
@@ -69,37 +68,4 @@ I also write regularly on Dev.to and Medium — breaking down AI systems and the
 
 </div>
 
-If you're building something in this space, or stuck on why your AI isn't working the way you hoped — just DM me. I reply.
-
-<style>
-.linkedin-cta {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-top: 16px;
-}
-.linkedin-cta a {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  text-decoration: none;
-  color: var(--global-text-color);
-  font-weight: 600;
-  font-size: 1rem;
-  transition: opacity 0.2s ease, transform 0.2s ease;
-}
-.linkedin-cta a:hover {
-  opacity: 0.75;
-  transform: translateX(3px);
-}
-.linkedin-cta img {
-  flex-shrink: 0;
-}
-</style>
-
-<div class="linkedin-cta">
-  <a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
-    Connect with me on LinkedIn
-  </a>
-</div>
+If you're building something in this space, or stuck on why your AI isn't working the way you hoped — just DM me on <a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank" style="display:inline-flex; align-items:center; gap:5px; vertical-align:middle;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" style="vertical-align:middle;" /></a> for a quick chat, or mail me <a href="mailto:vinodwaghmare890@gmail.com" title="vinodwaghmare890@gmail.com" style="display:inline-flex; align-items:center; vertical-align:middle;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="20" style="vertical-align:middle;" /></a>
