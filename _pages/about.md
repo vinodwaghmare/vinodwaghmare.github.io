@@ -106,7 +106,7 @@ If you're building something in this space, or stuck on why your AI isn't workin
 
 <div class="connect-icons">
   <a href="/cv/" class="cv-badge" title="Curriculum Vitae">CV</a>
-  <a href="mailto:vinodwaghmare890@gmail.com" title="Email me">
+  <a href="mailto:vinodwaghmare890@gmail.com?subject=Quick%20Intro%20%26%20AI%20workflow%20discussion" title="Email me">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="36" />
   </a>
   <a href="https://www.linkedin.com/in/vinod-w-141499169/" target="_blank" title="LinkedIn">
