@@ -8,10 +8,17 @@ div.container-link-button {
 
 table.table-cv {
   background-color: transparent !important;
+  width: 100%;
 
   td,
   th {
-    padding: 1px;
+    padding: 6px 10px;
+    vertical-align: top;
+  }
+
+  td:first-child {
+    min-width: 160px;
+    white-space: nowrap;
   }
 }
 
@@ -39,8 +46,34 @@ a.btncv:hover {
 }
 
 /*****************************
+ * CV card spacing
+ *****************************/
+
+div.cv .card {
+  padding: 1.25rem 1.5rem !important;
+}
+
+div.cv .list-group-item {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+div.cv ul.items {
+  padding-left: 1.2rem;
+
+  li {
+    margin-bottom: 0.3rem;
+    line-height: 1.55;
+  }
+}
+
+/*****************************
  * CV TIME_TABLE styles
  *****************************/
+
+.date-column {
+  min-width: 90px;
+}
 
 p.location {
   font-size: 0.7rem;
