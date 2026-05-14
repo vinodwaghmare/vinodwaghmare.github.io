@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Vinod Waghmare",
+    "label": "Senior Data & AI Engineer",
+    "email": "vinodwaghmare890@gmail.com",
+    "phone": "+91-9158590121",
+    "url": "https://vinodwaghmare.github.io",
+    "summary": "Senior Data and AI Engineer with 6+ years of production experience on Databricks, building ML pipelines and data platforms across retail, banking, healthcare, and life sciences. Work covers technical scoping and architecture through to monitored, deployed systems using MLflow, ZenML, PySpark, Delta Lake, and Unity Catalog. Used to working directly with business stakeholders and client teams: gathering requirements, making architecture decisions, explaining trade-offs without the jargon, and seeing delivery through to the end. Have integrated GenAI into production workflows (LangChain, LangGraph, CrewAI) and built a complete ML system covering training, drift detection, and real-time API serving.",
+    "location": {
+      "city": "Pune",
+      "region": "Maharashtra",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "vinod-w-141499169",
+        "url": "https://www.linkedin.com/in/vinod-w-141499169/"
+      },
+      {
+        "network": "GitHub",
+        "username": "vinodwaghmare",
+        "url": "https://github.com/vinodwaghmare"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cloudaeon",
+      "position": "Senior Data & AI Engineer",
+      "location": "Pune, India",
+      "startDate": "2024-11-01",
+      "endDate": "",
+      "summary": "Technical point of contact for the data platform at a retail company. Business stakeholders and third-party partners come to me for architecture decisions, integration requirements, and pipeline issues.",
+      "highlights": [
+        "30+ ETL pipelines owned and operated on Databricks, covering data flow from raw ingestion to output datasets used by analytics and reporting teams",
+        "15+ child DAGs orchestrated through a master DAG in Airflow, each generating provision files that downstream business systems use for daily operations",
+        "2 pipeline patterns built and maintained — a day-level BAU run and a 15-minute interval pipeline for store-level aggregations used in near-real-time reporting",
+        "3 years of transactional data backfilled through a history load script, giving forecasting models enough historical data to train on",
+        "Third-party integrations managed with format conversion, validation, and retry logic so deliveries stay consistent even when upstream data has gaps",
+        "CI/CD via GitHub Actions across Dev, Test, and Prod so deployments are automated and production changes are controlled"
+      ]
+    },
+    {
+      "name": "Persistent Systems",
+      "position": "Lead Software Engineer, Data Platform",
+      "location": "Pune, India",
+      "startDate": "2023-02-01",
+      "endDate": "2024-11-01",
+      "summary": "Technical lead across three client data platform projects in e-commerce, banking, and life sciences. Each project started with scoping and architecture, went through build and testing, and ended with the client team able to run it independently.",
+      "highlights": [
+        "3 client projects delivered: e-commerce (AWS to GCP on Databricks and BigQuery), banking (Hadoop to AWS with GenAI integration), life sciences (legacy to Azure Data Factory and Synapse)",
+        "40+ pipelines designed and maintained across Airflow and Databricks, supporting reporting, analytics, and ML teams across all three clients",
+        "GenAI integration built in the banking project using LangChain, cutting manual data handling the team had been doing by hand",
+        "MLflow set up for experiment tracking and model versioning, ZenML for pipeline orchestration with reproducible runs",
+        "CI/CD via GitHub Actions and GitLab CI across Dev, Test, and Prod for all three clients",
+        "Presented architecture decisions and progress updates to non-technical client stakeholders throughout each engagement"
+      ]
+    },
+    {
+      "name": "Cognizant",
+      "position": "Associate / Programmer Analyst",
+      "location": "Pune, India",
+      "startDate": "2020-01-01",
+      "endDate": "2023-02-01",
+      "summary": "Worked on enterprise ETL platforms for healthcare and life sciences clients where data accuracy directly affected compliance and business operations.",
+      "highlights": [
+        "30+ ETL pipelines built and maintained in Informatica PowerCenter across healthcare and life sciences, processing data for reporting and compliance",
+        "62% reduction in average job runtime by refactoring legacy pipelines, bringing processing time down from ~4 hours to under 90 minutes",
+        "Significantly fewer manual interventions on pipeline failures after introducing automated alerting and retry logic",
+        "1 enterprise data platform migrated to SUSE Linux with zero data loss, keeping all ETL workflows running throughout the transition",
+        "Data quality checks, reconciliation routines, and monitoring put in place to catch inconsistencies before they reached business users"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Savitribai Phule Pune University",
+      "area": "Electronics and Telecommunication",
+      "studyType": "Bachelor of Engineering (B.E)",
+      "startDate": "2015-01-01",
+      "endDate": "2019-01-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Databricks Certified Data Engineer Associate",
+      "date": "2026-06-01",
+      "issuer": "Databricks"
+    }
+  ],
+  "skills": [
+    {
+      "name": "MLOps",
+      "keywords": ["MLflow", "ZenML", "scikit-learn Pipelines", "Drift Detection (KS, PSI, Evidently)", "XGBoost"]
+    },
+    {
+      "name": "Databricks",
+      "keywords": ["Delta Lake", "Unity Catalog", "Spark / PySpark", "Iceberg", "Parquet"]
+    },
+    {
+      "name": "GenAI",
+      "keywords": ["LangChain", "LangGraph", "CrewAI", "MCP", "Langfuse"]
+    },
+    {
+      "name": "Cloud",
+      "keywords": ["AWS (S3, Glue, Lambda)", "GCP (BigQuery, Dataflow, Composer)", "Azure (ADLS Gen2, ADF, Synapse)"]
+    },
+    {
+      "name": "Orchestration",
+      "keywords": ["Apache Airflow", "Apache Kafka", "dbt", "Hadoop"]
+    },
+    {
+      "name": "DevOps",
+      "keywords": ["GitHub Actions", "GitLab CI", "FastAPI", "Git"]
+    },
+    {
+      "name": "Languages",
+      "keywords": ["Python (pandas, PySpark, pytest, SQLAlchemy)", "SQL", "Bash"]
+    },
+    {
+      "name": "Governance & Legacy ETL",
+      "keywords": ["Unity Catalog", "data quality frameworks", "schema validation", "Informatica PowerCenter"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Credit Card Fraud Detection: End-to-End MLOps System",
+      "summary": "Binary classification on imbalanced transaction data (0.8% fraud rate). Built with ZenML for pipeline orchestration, MLflow for experiment tracking and model registry, XGBoost for class imbalance handling, FastAPI for real-time serving, and Evidently for drift monitoring with automated retraining triggers.",
+      "highlights": [
+        "Stack: Python, ZenML, MLflow, XGBoost, scikit-learn, FastAPI, Evidently",
+        "96.2% recall, 97.6% precision — rollback to previous champion in under 30 seconds via MLflow alias flip",
+        "Chronological train/val/test split (70/10/20) to prevent data leakage; KS, chi-squared, and PSI drift monitoring"
+      ],
+      "startDate": "2024-01-01"
+    }
+  ]
+}
