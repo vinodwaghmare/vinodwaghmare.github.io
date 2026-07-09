@@ -48,15 +48,37 @@ latest_posts:
 
 Most AI projects don't fail because the models are bad. They fail because no one thought hard enough about what happens after deployment. <span class="about-accent">That's the part I work on.</span>
 
-I build systems that observe context, make decisions, and take action in production environments. The focus isn't just resilience or scalability, though you get both. It's about building something teams can hand off and trust without it falling apart the moment conditions change.
+I'm Vinod Waghmare, an AI and Data Engineer focused on production ready AI systems, data platforms, and agentic workflows that businesses can actually rely on. I help startups and engineering teams move past demos and prototypes into systems that are observable, resilient, and built for real world scale.
 
 <span class="about-punch">The hard part is usually not the model. It's the mess around it.</span> Fragmented pipelines, unclear ownership, workflows that worked in a notebook but break under real load. That's where most of the leverage is, and it's where I spend my time.
 
-My approach is pretty simple: prototype fast, stay close to the real environment, and treat observability as a feature not an afterthought. Fancy architecture is a liability unless it solves a real problem.
+## What I build
 
-I'm genuinely excited about agentic systems. Not because of the hype, but because I think they represent something qualitatively new. Software that doesn't just execute instructions but reasons about what to do next. That's a real shift, and building it well requires thinking carefully about boundaries, transparency, and failure modes most people skip over.
+I help companies build:
 
-I've worked across banking, retail, healthcare, and e-commerce. The domains are different. The underlying problems are usually the same: legacy systems never meant to scale, data that doesn't quite fit together, and teams that want to move faster than their infrastructure allows.
+- Production data platforms for analytics, AI, and decision making
+- ETL and ELT pipelines that are reliable, observable, and easy to evolve
+- Agentic AI workflows that can reason, plan, and execute business processes
+- LLM and RAG applications connected to enterprise knowledge
+- ML systems that cover the full path from experimentation to deployment and monitoring
+- Workflow automation that removes repetitive manual work
+- Cloud native AI infrastructure built for reliability, governance, and long term maintainability
+
+The goal isn't to ship another model. It's to build something a team can still trust a year after launch.
+
+## My approach
+
+My approach is pretty simple: prototype fast, stay close to the real environment, and treat observability as a feature, not an afterthought. I keep architectures simple, optimize for reliability before complexity, and try not to add anything the system doesn't need. Fancy architecture is a liability unless it solves a real problem.
+
+## Why agentic systems
+
+I'm genuinely excited about agentic systems. Not because of the hype, but because software that reasons about what to do next, instead of just executing instructions, is a real change in how these tools work. Building it well means designing clear boundaries, keeping decisions transparent, and handling the failure modes most people skip over.
+
+## Experience
+
+I've worked across banking, retail, healthcare, and e-commerce, helping teams modernize legacy data platforms and operationalize AI initiatives. The domains are different. The underlying problems are usually the same: legacy systems never meant to scale, data that doesn't quite fit together, and teams that want to move faster than their infrastructure allows.
+
+## Writing
 
 I also write regularly on Dev.to and Medium, breaking down AI systems and the engineering decisions behind them for both technical and non-technical readers. If you want to understand what's actually happening inside modern AI, not just the marketing version, that's what I write about.
 
