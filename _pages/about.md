@@ -90,7 +90,7 @@ I also write regularly on Dev.to and Medium, breaking down AI systems and the en
 
 </div>
 
-If you're building something in this space, or stuck on why your AI isn't working the way you hoped — reach out.
+If you're building something in this space, or stuck on why your AI isn't working the way you hoped, reach out.
 
 <style>
 .connect-icons {
