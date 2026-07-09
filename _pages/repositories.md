@@ -161,4 +161,21 @@ nav_order: 4
     </div>
   </div>
 
+  <div class="repo-card">
+    <div class="repo-card-header">
+      <a href="https://github.com/vinodwaghmare/chat-memory-system" target="_blank" class="repo-card-title">
+        <i class="fa-regular fa-folder"></i> Chat Memory System
+      </a>
+      <span class="repo-ext">↗</span>
+    </div>
+    <p class="repo-desc">Persistent memory layer for conversational AI. Classifies memories as semantic, procedural, or episodic, with hybrid vector and keyword retrieval and a write gate that filters out low-value or duplicate entries.</p>
+    <div class="repo-tags">
+      <span class="repo-lang"><span class="lang-dot"></span> Python</span>
+      <span class="repo-tag">FastAPI</span>
+      <span class="repo-tag">pgvector</span>
+      <span class="repo-tag">LLM</span>
+      <span class="repo-tag">Next.js</span>
+    </div>
+  </div>
+
 </div>
