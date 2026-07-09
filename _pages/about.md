@@ -80,7 +80,7 @@ I've worked across banking, retail, healthcare, and e-commerce, helping teams mo
 
 ## Writing
 
-I also write regularly on Dev.to and Medium, breaking down AI systems and the engineering decisions behind them for both technical and non-technical readers. If you want to understand what's actually happening inside modern AI, not just the marketing version, that's what I write about.
+I also write regularly on Dev.to, breaking down AI systems and the engineering decisions behind them for both technical and non-technical readers. If you want to understand what's actually happening inside modern AI, not just the marketing version, that's what I write about.
 
 <span class="about-closer">The goal is never the technology. It's what the technology makes possible.</span>
 
