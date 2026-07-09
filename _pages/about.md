@@ -58,7 +58,7 @@ I'm genuinely excited about agentic systems. Not because of the hype, but becaus
 
 I've worked across banking, retail, healthcare, and e-commerce. The domains are different. The underlying problems are usually the same: legacy systems never meant to scale, data that doesn't quite fit together, and teams that want to move faster than their infrastructure allows.
 
-I also write regularly on Dev.to and Medium — breaking down AI systems and the engineering decisions behind them for both technical and non-technical readers. If you want to understand what's actually happening inside modern AI, not just the marketing version, that's what I write about.
+I also write regularly on Dev.to and Medium, breaking down AI systems and the engineering decisions behind them for both technical and non-technical readers. If you want to understand what's actually happening inside modern AI, not just the marketing version, that's what I write about.
 
 <span class="about-closer">The goal is never the technology. It's what the technology makes possible.</span>
 
