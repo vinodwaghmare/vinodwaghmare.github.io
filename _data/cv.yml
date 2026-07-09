@@ -68,6 +68,7 @@ cv:
 
     Projects:
       - name: "Credit Card Fraud Detection: End-to-End MLOps System"
+        url: https://github.com/vinodwaghmare/Realtime-Production-Enterprise-fraud-detection-system
         summary: >
           Binary classification on imbalanced transaction data (0.8% fraud rate). Built with ZenML for pipeline
           orchestration, MLflow for experiment tracking and model registry, XGBoost for class imbalance handling,
