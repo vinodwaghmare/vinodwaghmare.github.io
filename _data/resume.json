@@ -35,7 +35,7 @@
       "highlights": [
         "30+ ETL pipelines owned and operated on Databricks, covering data flow from raw ingestion to output datasets used by analytics and reporting teams",
         "15+ child DAGs orchestrated through a master DAG in Airflow, each generating provision files that downstream business systems use for daily operations",
-        "2 pipeline patterns built and maintained — a day-level BAU run and a 15-minute interval pipeline for store-level aggregations used in near-real-time reporting",
+        "2 pipeline patterns built and maintained: a day-level BAU run and a 15-minute interval pipeline for store-level aggregations used in near-real-time reporting",
         "3 years of transactional data backfilled through a history load script, giving forecasting models enough historical data to train on",
         "Third-party integrations managed with format conversion, validation, and retry logic so deliveries stay consistent even when upstream data has gaps",
         "CI/CD via GitHub Actions across Dev, Test, and Prod so deployments are automated and production changes are controlled"
@@ -129,10 +129,22 @@
       "summary": "Binary classification on imbalanced transaction data (0.8% fraud rate). Built with ZenML for pipeline orchestration, MLflow for experiment tracking and model registry, XGBoost for class imbalance handling, FastAPI for real-time serving, and Evidently for drift monitoring with automated retraining triggers.",
       "highlights": [
         "Stack: Python, ZenML, MLflow, XGBoost, scikit-learn, FastAPI, Evidently",
-        "96.2% recall, 97.6% precision — rollback to previous champion in under 30 seconds via MLflow alias flip",
+        "96.2% recall, 97.6% precision, with rollback to previous champion in under 30 seconds via MLflow alias flip",
         "Chronological train/val/test split (70/10/20) to prevent data leakage; KS, chi-squared, and PSI drift monitoring"
       ],
       "startDate": "2024-01-01"
+    },
+    {
+      "name": "Chat Memory System",
+      "url": "https://github.com/vinodwaghmare/chat-memory-system",
+      "summary": "Persistent memory layer for conversational AI that keeps context across sessions instead of resetting on every new chat. Memories are classified as semantic, procedural, or episodic, and a write gate checks each candidate for usefulness and duplication before it gets stored.",
+      "highlights": [
+        "Stack: FastAPI, PostgreSQL, pgvector, SQLAlchemy, Next.js, Tailwind CSS, Docker, Cloud Run",
+        "Hybrid retrieval that combines vector similarity and keyword search with configurable ranking",
+        "PII filtering, row-level user isolation, and full audit trails on every memory read and write",
+        "Automatic fallback across OpenAI, Anthropic, and OpenRouter so the system keeps working if one provider goes down"
+      ],
+      "startDate": "2026-06-21"
     }
   ]
 }
