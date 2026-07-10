@@ -47,6 +47,7 @@ latest_posts:
 .profile img {
   aspect-ratio: 1 / 1;
   object-fit: cover;
+  object-position: 50% 15%;
   border: 3px solid var(--global-bg-color);
   outline: 2px solid var(--global-theme-color);
   outline-offset: 3px;
