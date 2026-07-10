@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-ai-agents-roadmap-zero-to-production",
+        },{id: "post-vector-embeddings-explained-how-ai-actually-understands-meaning",
+        
+          title: 'Vector Embeddings Explained: How AI Actually Understands Meaning <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Vector embeddings turn words and concepts into numerical lists that map meaning as geometry in high-dimensional space, letting AI systems understand semantic relationships instead of just matching text patterns. This piece covers how that foundation powers modern search, recommendations, fraud detection, and language models through the mathematical distance between vectors.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://dev.to/vinod_wa/vector-embeddings-explained-how-ai-actually-understands-meaning-2nlc", "_blank");
+          
+        },
+      },{id: "post-ai-agents-roadmap-zero-to-production",
         
           title: 'AI Agents Roadmap: Zero to Production <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
