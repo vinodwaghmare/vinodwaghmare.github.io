@@ -44,6 +44,14 @@ latest_posts:
   background-clip: text;
   display: inline-block;
 }
+.profile img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 3px solid var(--global-bg-color);
+  outline: 2px solid var(--global-theme-color);
+  outline-offset: 3px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
 </style>
 
 Most AI projects don't fail because the models are bad. They fail because no one thought hard enough about what happens after deployment. <span class="about-accent">That's the part I work on.</span>
