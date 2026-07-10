@@ -101,7 +101,7 @@ pagination:
 
 <div class="writing-header">
   <h1>Writing</h1>
-  <p>AI systems, engineering decisions, and the tradeoffs tutorials skip. Published on <a href="https://dev.to/vinod_wa" target="_blank">Dev.to</a> and <a href="https://medium.com/@VinodShips" target="_blank">Medium</a>.</p>
+  <p>AI systems, engineering decisions, and the tradeoffs tutorials skip. Published on <a href="https://dev.to/vinod_wa" target="_blank">Dev.to</a>.</p>
 </div>
 
 <hr class="writing-divider">
