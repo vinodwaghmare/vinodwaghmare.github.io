@@ -9,7 +9,7 @@ cv:
     Senior Data and AI Engineer with 6+ years of production data engineering experience, including
     3+ years on Databricks, building ML pipelines and data platforms across retail, banking, healthcare,
     and life sciences. Work covers technical scoping and architecture through to deployed, monitored
-    systems using MLflow, ZenML, PySpark, Delta Lake, and Unity Catalog. Comfortable working directly
+    systems using PySpark, Airflow, Delta Lake, and Unity Catalog. Comfortable working directly
     with business stakeholders and client teams: gathering requirements, making architecture decisions,
     explaining trade-offs without the jargon, and seeing delivery through to the end. Have integrated
     GenAI into retail workflows using LangGraph and independently built
