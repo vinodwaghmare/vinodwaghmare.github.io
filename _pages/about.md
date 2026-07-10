@@ -57,7 +57,7 @@ latest_posts:
 
 Most AI projects don't fail because the models are bad. They fail because no one thought hard enough about what happens after deployment. <span class="about-accent">That's the part I work on.</span>
 
-I'm Vinod Waghmare, an AI and Data Engineer focused on production ready AI systems, data platforms, and agentic workflows that businesses can actually rely on. I help startups and engineering teams move past demos and prototypes into systems that are observable, resilient, and built for real world scale.
+I'm Vinod Waghmare, an AI and Data Engineer focused on production ready AI systems, data platforms, and agentic workflows that businesses can actually rely on. I help engineering teams move past demos and prototypes into systems that are observable, resilient, and built for real world scale.
 
 <span class="about-punch">The hard part is usually not the model. It's the mess around it.</span> Fragmented pipelines, unclear ownership, workflows that worked in a notebook but break under real load. That's where most of the leverage is, and it's where I spend my time.
 
