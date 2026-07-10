@@ -109,11 +109,7 @@ cv:
 
       - name: GenAI & Agent Frameworks
         icon: fa-solid fa-brain
-        keywords: "LangChain, LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI"
-
-      - name: LLM Observability
-        icon: fa-solid fa-chart-line
-        keywords: "Langfuse"
+        keywords: "LangChain, LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI, Langfuse"
 
       - name: Cloud Platforms
         icon: fa-solid fa-cloud
