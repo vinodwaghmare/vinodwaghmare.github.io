@@ -6,14 +6,14 @@ cv:
   location: Pune, India
   website: https://vinodwaghmare.github.io
   summary: >
-    Senior Data and AI Engineer with 6+ years of production experience on Databricks,
-    building ML pipelines and data platforms across retail, banking, healthcare, and life sciences.
-    Work covers technical scoping and architecture through to monitored, deployed systems using
-    MLflow, ZenML, PySpark, Delta Lake, and Unity Catalog. Used to working directly with business
-    stakeholders and client teams: gathering requirements, making architecture decisions, explaining
-    trade-offs without the jargon, and seeing delivery through to the end. Have integrated GenAI into
-    production workflows (LangChain, LangGraph, CrewAI) and built a complete ML system covering
-    training, drift detection, and real-time API serving.
+    Senior Data and AI Engineer with 6+ years of production data engineering experience, including
+    3+ years on Databricks, building ML pipelines and data platforms across retail, banking, healthcare,
+    and life sciences. Work covers technical scoping and architecture through to deployed, monitored
+    systems using MLflow, ZenML, PySpark, Delta Lake, and Unity Catalog. Comfortable working directly
+    with business stakeholders and client teams: gathering requirements, making architecture decisions,
+    explaining trade-offs without the jargon, and seeing delivery through to the end. Have integrated
+    GenAI into production workflows using LangChain, LangGraph, and CrewAI, and independently built
+    and open-sourced ML projects covering training, drift detection, and real-time API serving.
 
   sections:
     Experience:
@@ -40,7 +40,7 @@ cv:
         highlights:
           - "3 client projects delivered: e-commerce (AWS to GCP on Databricks and BigQuery), banking (Hadoop to AWS with GenAI integration), life sciences (legacy to Azure Data Factory and Synapse)"
           - 40+ pipelines designed and maintained across Airflow and Databricks, supporting reporting, analytics, and ML teams
-          - GenAI integration built in the banking project using LangChain, cutting manual data handling the team had been doing by hand
+          - GenAI integration built in the banking project using LangChain, cutting down the manual data handling the team had been doing
           - MLflow set up for experiment tracking and model versioning, ZenML for pipeline orchestration with reproducible runs
           - CI/CD via GitHub Actions and GitLab CI across Dev, Test, and Prod for all three clients
           - Presented architecture decisions and progress updates to non-technical client stakeholders throughout each engagement
@@ -75,7 +75,8 @@ cv:
           FastAPI for real-time serving, and Evidently for drift monitoring with automated retraining triggers.
         highlights:
           - "Stack: Python, ZenML, MLflow, XGBoost, scikit-learn, FastAPI, Evidently"
-          - "96.2% recall, 97.6% precision, with rollback to previous champion in under 30 seconds via MLflow alias flip"
+          - "96.2% recall, 97.6% precision on the held-out test set"
+          - Automated rollback to the previous champion model in under 30 seconds via MLflow alias flip
           - Chronological train/val/test split (70/10/20) to prevent data leakage; KS, chi-squared, and PSI drift monitoring
 
       - name: "Chat Memory System"
