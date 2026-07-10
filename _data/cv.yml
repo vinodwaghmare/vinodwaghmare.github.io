@@ -103,10 +103,6 @@ cv:
         icon: fa-solid fa-robot
         keywords: "MLflow, Inference Optimization, Telemetry & Observability"
 
-      - name: Databricks
-        icon: fa-solid fa-database
-        keywords: "Delta Lake, Unity Catalog, Apache Spark, PySpark, Delta Live Tables"
-
       - name: GenAI & Agent Frameworks
         icon: fa-solid fa-brain
         keywords: "LangChain, LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI, Langfuse"
@@ -117,7 +113,7 @@ cv:
 
       - name: Data Engineering & Orchestration
         icon: fa-solid fa-gears
-        keywords: "Apache Airflow, Hadoop, Parquet"
+        keywords: "Apache Airflow, Hadoop, Parquet, Databricks (Delta Lake, Unity Catalog, Apache Spark, PySpark, Delta Live Tables)"
 
       - name: DevOps
         icon: fa-solid fa-code-branch

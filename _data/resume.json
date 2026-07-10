@@ -95,16 +95,8 @@
       "keywords": ["MLflow", "Inference Optimization", "Telemetry & Observability"]
     },
     {
-      "name": "Databricks",
-      "keywords": ["Delta Lake", "Unity Catalog", "Apache Spark", "PySpark", "Delta Live Tables"]
-    },
-    {
       "name": "GenAI & Agent Frameworks",
-      "keywords": ["LangChain", "LangGraph", "CrewAI", "Model Context Protocol (MCP)", "FastAPI"]
-    },
-    {
-      "name": "LLM Observability",
-      "keywords": ["Langfuse"]
+      "keywords": ["LangChain", "LangGraph", "CrewAI", "Model Context Protocol (MCP)", "FastAPI", "Langfuse"]
     },
     {
       "name": "Cloud Platforms",
@@ -112,7 +104,7 @@
     },
     {
       "name": "Data Engineering & Orchestration",
-      "keywords": ["Apache Airflow", "Hadoop", "Parquet"]
+      "keywords": ["Apache Airflow", "Hadoop", "Parquet", "Databricks (Delta Lake, Unity Catalog, Apache Spark, PySpark, Delta Live Tables)"]
     },
     {
       "name": "DevOps",
@@ -120,7 +112,7 @@
     },
     {
       "name": "Programming",
-      "keywords": ["Python", "SQL", "Bash"]
+      "keywords": ["Python", "Pandas", "SQL", "Bash"]
     },
     {
       "name": "Data Governance & Legacy ETL",
