@@ -101,32 +101,36 @@ cv:
     Skills:
       - name: MLOps
         icon: fa-solid fa-robot
-        keywords: "MLflow, ZenML, scikit-learn Pipelines, Drift Detection (KS, PSI, Evidently), XGBoost"
+        keywords: "MLflow, Inference Optimization, Telemetry & Observability"
 
       - name: Databricks
         icon: fa-solid fa-database
-        keywords: "Delta Lake, Unity Catalog, Spark / PySpark, Iceberg, Parquet"
+        keywords: "Delta Lake, Unity Catalog, Apache Spark, PySpark, Delta Live Tables"
 
-      - name: GenAI
+      - name: GenAI & Agent Frameworks
         icon: fa-solid fa-brain
-        keywords: "LangChain, LangGraph, CrewAI, MCP, Langfuse"
+        keywords: "LangChain, LangGraph, CrewAI, Model Context Protocol (MCP), FastAPI"
 
-      - name: Cloud
+      - name: LLM Observability
+        icon: fa-solid fa-chart-line
+        keywords: "Langfuse"
+
+      - name: Cloud Platforms
         icon: fa-solid fa-cloud
-        keywords: "AWS (S3, Glue, Lambda), GCP (BigQuery, Dataflow, Composer), Azure (ADLS Gen2, ADF, Synapse)"
+        keywords: "AWS (S3, Glue, Lambda), GCP (BigQuery, Dataflow, Cloud Composer), Azure (ADLS Gen2, Azure Data Factory, Synapse Analytics)"
 
-      - name: Orchestration
+      - name: Data Engineering & Orchestration
         icon: fa-solid fa-gears
-        keywords: "Apache Airflow, Apache Kafka, dbt, Hadoop"
+        keywords: "Apache Airflow, Hadoop, Parquet"
 
       - name: DevOps
         icon: fa-solid fa-code-branch
-        keywords: "GitHub Actions, GitLab CI, FastAPI, Git"
+        keywords: "Git, GitHub Actions, GitLab CI"
 
-      - name: Languages
+      - name: Programming
         icon: fa-solid fa-code
-        keywords: "Python (pandas, PySpark, pytest, SQLAlchemy), SQL, Bash"
+        keywords: "Python, Pandas, SQL, Bash"
 
-      - name: Governance & Legacy ETL
+      - name: Data Governance & Legacy ETL
         icon: fa-solid fa-shield-halved
-        keywords: "Unity Catalog, data quality frameworks, schema validation, Informatica PowerCenter"
+        keywords: "Data Quality Frameworks, Informatica PowerCenter"

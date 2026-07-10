@@ -92,35 +92,39 @@
   "skills": [
     {
       "name": "MLOps",
-      "keywords": ["MLflow", "ZenML", "scikit-learn Pipelines", "Drift Detection (KS, PSI, Evidently)", "XGBoost"]
+      "keywords": ["MLflow", "Inference Optimization", "Telemetry & Observability"]
     },
     {
       "name": "Databricks",
-      "keywords": ["Delta Lake", "Unity Catalog", "Spark / PySpark", "Iceberg", "Parquet"]
+      "keywords": ["Delta Lake", "Unity Catalog", "Apache Spark", "PySpark", "Delta Live Tables"]
     },
     {
-      "name": "GenAI",
-      "keywords": ["LangChain", "LangGraph", "CrewAI", "MCP", "Langfuse"]
+      "name": "GenAI & Agent Frameworks",
+      "keywords": ["LangChain", "LangGraph", "CrewAI", "Model Context Protocol (MCP)", "FastAPI"]
     },
     {
-      "name": "Cloud",
-      "keywords": ["AWS (S3, Glue, Lambda)", "GCP (BigQuery, Dataflow, Composer)", "Azure (ADLS Gen2, ADF, Synapse)"]
+      "name": "LLM Observability",
+      "keywords": ["Langfuse"]
     },
     {
-      "name": "Orchestration",
-      "keywords": ["Apache Airflow", "Apache Kafka", "dbt", "Hadoop"]
+      "name": "Cloud Platforms",
+      "keywords": ["AWS (S3, Glue, Lambda)", "GCP (BigQuery, Dataflow, Cloud Composer)", "Azure (ADLS Gen2, Azure Data Factory, Synapse Analytics)"]
+    },
+    {
+      "name": "Data Engineering & Orchestration",
+      "keywords": ["Apache Airflow", "Hadoop", "Parquet"]
     },
     {
       "name": "DevOps",
-      "keywords": ["GitHub Actions", "GitLab CI", "FastAPI", "Git"]
+      "keywords": ["Git", "GitHub Actions", "GitLab CI"]
     },
     {
-      "name": "Languages",
-      "keywords": ["Python (pandas, PySpark, pytest, SQLAlchemy)", "SQL", "Bash"]
+      "name": "Programming",
+      "keywords": ["Python", "SQL", "Bash"]
     },
     {
-      "name": "Governance & Legacy ETL",
-      "keywords": ["Unity Catalog", "data quality frameworks", "schema validation", "Informatica PowerCenter"]
+      "name": "Data Governance & Legacy ETL",
+      "keywords": ["Data Quality Frameworks", "Informatica PowerCenter"]
     }
   ],
   "projects": [
